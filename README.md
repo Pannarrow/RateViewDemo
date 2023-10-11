@@ -6,3 +6,6 @@
 
 #### 可惜
 暂时没有加大拇指最后抖一下的动画
+
+
+![image](https://github.com/Pannarrow/RateViewDemo/blob/main/c5i2oluegw.gif)
