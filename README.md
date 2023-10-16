@@ -8,4 +8,4 @@
 暂时没有加大拇指最后抖一下的动画
 
 
-![img](https://github.com/Pannarrow/RateViewDemo/blob/main/c5i2oluegw.gif)
+![image](https://github.com/Pannarrow/RateViewDemo/blob/main/c5i2oluegw.gif)
